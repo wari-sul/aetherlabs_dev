@@ -10,11 +10,9 @@ function Brief() {
       className="bg-[#cdea68] text-[#212121] w-full brief-container"
     >
       <div className="brief-info px-12 pb-12 pt-20 text-[58px] leading-none tracking-tight w-[85%] font-neue">
-        <p>
-          Aetherlabs is a <u>creative frontend website development</u> agency
-          for forward-thinking businesses that need to raise funds, sell
-          products, explain complex ideas, and hire great people.
-        </p>
+      <p>
+  AetherLabs is a development studio specializing in <u>custom web applications</u> for both private and government clients. We transform complex ideas into reality, helping businesses raise funds, sell products, and achieve their strategic goals.
+</p>
       </div>
 
       <div className="border-[1px] opacity-[0.5] w-full border-[#212121]"></div>
@@ -25,16 +23,20 @@ function Brief() {
         </div>
         <div className="w-1/2 flex brief-second-container">
           <div className="w-1/2 pr-10 tracking-tight brief-second-box">
-            <p>
-              We craft <u>stunning frontends</u> that don’t just turn heads—they
-              leave jaws on the floor. Whether it’s dazzling designs for a solo
-              startup or a full-scale web presence for your empire, we got you
-              covered.
+          <p>
+              We build <u>custom web applications</u> that don't just
+              function—they floor people. Whether you're a{" "}
+              <u>startup with a wild idea</u> or a{" "}
+              <u>government institution needing a digital fortress</u>, we're
+              the developers who turn your complex goals into a stunning
+              reality.
             </p>
-            <p className="mt-5">
-              Powered by holy waters of the Himalayas and amazing sleep
-              disorders, we create frontend so smooth they could glide like
-              Keanu Reeves dodging bullets in 'The Matrix'.
+         <p className="mt-5">
+              Powered by a near-mystical command of the full stack and{" "}
+              <u>severe caffeine dependencies</u>, we build{" "}
+              <u>custom web applications</u> so smooth, they could glide like
+              Keanu Reeves dodging digital bullets. We're the ones who take your
+              "whoa" idea and turn it into a reality.
             </p>
           </div>
           <div className="w-1/2 flex items-end justify-center brief-socials-box">

@@ -51,7 +51,7 @@ function Herosection() {
                         </motion.span>
                         <h1 className='mb-[-16px] jaw-drop'>Jaw dropping</h1>
                     </div>
-                    <h1 className='mb-[-16px] hero-site'>Websites</h1>
+                    <h1 className='mb-[-16px] hero-site'>Web Applications</h1>
                 </div>
             </div>
 
