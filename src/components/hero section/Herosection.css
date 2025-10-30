@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-section{
+    font-family: 'grotesk', 'Roboto', 'Poppins';
+    margin-top: 2.5rem;
+    font-size: 170px;
+    line-height: 135px;
+    background-image: url('/banner.png');
+    background-position: right;
+}
+
+.hero-section h1{
+    letter-spacing: 1px;
+}
+.hero-btn, .hero-btn-i {
+    border: 1px solid white;
+    padding: 3px 12px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    outline: none; 
+    transition: all 0.3s;
+}
+
+.hero-buttons:hover .hero-btn, .hero-buttons:hover .hero-btn-i{
+    color: #212121; 
+    background-color: #f1f1f1;
+}
+
+.hero-span{
+    background-color: #ef4444;
+    height: 102px;
+    position: relative;
+    top: -15px;
+    width: 148px;
+    left: 13px;
+    margin-right: 22px;
+    border-radius: 10px;
+    display: inline-block;          
+    position: relative;     
+}
+  
+.hero-span img {
+    width: 100%;           
+    height: 100%;           
+    object-fit: cover;      
+    object-position: center; 
+}
+

@@ -1,0 +1,36 @@
+.collapsible-content,
+.services-container {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.collapsible-content.expanded,
+.services-container.expanded {
+    max-height: 300px; 
+    opacity: 1;
+}
+
+.placeholder {
+    min-height: 30px;
+}
+.client-review-btn{
+    transition: all 0.2s;
+}
+.client-review-btn:hover {
+    transform: scale(1.3);
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.collapsible-content.collapsed,
+.services-container.collapsed {
+    max-height: 0;
+    opacity: 0;
+}
