@@ -82,7 +82,7 @@ function Footer() {
                 <address className="flex flex-col">
                   <span>
                     <a href="#" className="underline-hover">
-                      wespy07@gmail.com
+                      replace1@gmail.com
                     </a>
                   </span>
                 </address>
@@ -142,10 +142,10 @@ function Footer() {
             Website by{" "}
             <a
               className="underline"
-              href="https://github.com/Wespy07"
+              href="https://github.com/wari-sul"
               target="_blank"
             >
-              WESPY
+              WARISUL
             </a>
           </p>
         </div>

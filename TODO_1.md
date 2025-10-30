@@ -11,7 +11,7 @@ This file outlines the planned customizations based on Step 2 from the initial a
 ## 2. Personalize Content and Copy
 - Revise descriptions: Update the brief in `src/components/websiteBrief/Brief.jsx` to describe Aetherlabs' focus (e.g., AI, innovation, or specific services). The marquee text ("we are aetherlabs") is already updated but can be refined.
 - Social links: Replace generic placeholders in `src/components/footer/Footer.jsx` and `src/components/websiteBrief/Brief.jsx` (e.g., Instagram, Behance) with real Aetherlabs social media URLs.
-- Contact info: In `src/components/footer/Footer.jsx`, update the email (`wespy07@gmail.com`), addresses (currently Vancouver and Lviv placeholders), and add phone numbers if relevant to reflect actual Aetherlabs details.
+- Contact info: In `src/components/footer/Footer.jsx`, update the email (`REPLACE@gmail.com`), addresses (currently Vancouver and Lviv placeholders), and add phone numbers if relevant to reflect actual Aetherlabs details.
 
 ## 3. Update Project Showcases and Sections
 - Explore and modify components in `src/components/Projects/` for case studies or work samples—update images, text, and links with Aetherlabs' real projects.

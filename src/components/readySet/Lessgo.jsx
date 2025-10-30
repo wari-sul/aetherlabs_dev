@@ -70,7 +70,7 @@ function Lessgo() {
                     </button>
                     <h3 className="font-light">OR</h3>
                     <button className="rounded-full uppercase px-10 py-5 lessgo-mail-btn">
-                        wespy07@gmail.com
+                        replace2@gmail.com
                     </button>
                 </div>
             </div>
